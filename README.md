@@ -40,7 +40,7 @@ https://quotes.toscrape.com/
 - README.md
 
 ## Author
-Add your name here.
+Madupu Aparna
 
 ## Note
 The application works with accessible public webpages. Websites using JavaScript rendering or blocking automated requests may not be supported.
